@@ -1,2 +1,15 @@
+
 # CodeClause_Url_Shortner
-CodeClause Python Development Intern Allocated Project-1
+- A solution to convert lengthy URL's into short URL's
+
+# Library used
+- This solution is made using an open source Python Library - *pyshortners*
+
+# Prerequisites
+- Install the required Library on your Python IDE
+```
+pipinstall pyshortners
+```
+# Watch Video
+- to watch video on my Linked page [click here]()
+
