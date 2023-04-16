@@ -8,7 +8,7 @@
 # Prerequisites
 - Install the required Library on your Python IDE
 ```
-pipinstall pyshortners
+pip install pyshortners
 ```
 # Watch Video
 - to watch video on my Linked page [click here]()
